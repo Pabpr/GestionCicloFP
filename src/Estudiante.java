@@ -9,7 +9,6 @@ public class Estudiante {
     private String nombreEstudiante;
     private int idEstudiante;
     private int edadEstudiante;
-    
 
     /**
      * Constructor para crear un nuevo estudiante.
