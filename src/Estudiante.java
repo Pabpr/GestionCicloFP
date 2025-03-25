@@ -10,6 +10,7 @@ public class Estudiante {
     private int idEstudiante;
     private int edadEstudiante;
 
+    
     /**
      * Constructor para crear un nuevo estudiante.
      * 
